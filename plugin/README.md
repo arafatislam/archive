@@ -1,6 +1,6 @@
 # 🧩 Aliucord Plugins
 
-[![Plugins](https://img.shields.io/badge/Plugins-1-blue?style=for-the-badge)](https://github.com/arafatislam/aliucord-plugins)
+[![Plugins](https://img.shields.io/badge/Plugins-1-blue?style=for-the-badge)](https://github.com/arafatislam/archive/tree/main/plugin)
 
 ## 🚀 Setup
 
@@ -14,7 +14,7 @@
 
 | Plugin | Version | Description |
 |:-------|:--------|:------------|
-| [**AnotherButton**](https://raw.githubusercontent.com/arafatislam/archive/main/plugin/AnotherButton.zip) | `1.0.3` | Adds a customizable button to the chat bar with dynamic presets. |
+| [**AnotherButton**](https://raw.githubusercontent.com/arafatislam/archive/main/plugin/AnotherButton.zip) | `1.0.4` | A powerful, customizable chat button for Discord. Features per-button settings, auto-save, and server-specific locking. |
 
 ---
-> **Last Updated:** Jan 12, 2026, 05:37 PM (UTC+6)
+> **Last Updated:** Jan 12, 2026, 11:21 PM (UTC+6)
