@@ -14,7 +14,7 @@
 
 | Plugin | Version | Description |
 |:-------|:--------|:------------|
-| [**AnotherButton**](https://raw.githubusercontent.com/arafatislam/archive/main/plugin/AnotherButton.zip) | `1.0.5` | A powerful, customizable chat button for Discord. Features variables, custom styling, auto-save, and macros. |
+| [**AnotherButton**](https://raw.githubusercontent.com/arafatislam/archive/main/plugin/AnotherButton.zip) | `1.0.6` | A customizable chat button with folders, macros, and automation tools. |
 
 ---
-> **Last Updated:** Jan 14, 2026, 04:19 AM (UTC+6)
+> **Last Updated:** Jan 14, 2026, 11:48 PM (UTC+6)
