@@ -14,7 +14,7 @@
 
 | Plugin | Version | Description |
 |:-------|:--------|:------------|
-| [**AnotherButton**](https://raw.githubusercontent.com/arafatislam/archive/main/plugin/AnotherButton.zip) | `1.0.6` | A customizable chat button with folders, macros, and automation tools. |
+| [**AnotherButton**](https://raw.githubusercontent.com/arafatislam/archive/main/plugin/AnotherButton.zip) | `1.0.7` | A customizable chat button with folders, macros, and automation tools. |
 
 ---
-> **Last Updated:** Jan 14, 2026, 11:48 PM (UTC+6)
+> **Last Updated:** Jan 16, 2026, 01:57 AM (UTC+6)
