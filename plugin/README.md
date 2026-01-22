@@ -14,5 +14,5 @@
 
 | Plugin | Version | Description |
 |:-------|:--------|:------------|
-| [**AnotherButton**](https://raw.githubusercontent.com/arafatislam/archive/main/plugin/AnotherButton.zip) | `1.1.0` | A customizable chat button with folders, macros, and automation tools. |
+| [**AnotherButton**](https://raw.githubusercontent.com/arafatislam/archive/main/plugin/AnotherButton.zip) | `2.0.0` | A customizable chat button with folders, macros, and automation tools. |
 
