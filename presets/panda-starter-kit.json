@@ -1,0 +1,158 @@
+[
+  {
+    "id": "panda-starter-kit-v2",
+    "m": "Starter Kit",
+    "e": "🐼 Panda Kit",
+    "c": -13421773,
+    "as": false,
+    "a": true,
+    "f": true,
+    "sub": [
+      {
+        "id": "demo-input-vars",
+        "m": "Hello {Name}, welcome to {City}!",
+        "e": "📝 Input Var",
+        "c": -11578276,
+        "as": false,
+        "a": true,
+        "f": false
+      },
+      {
+        "id": "demo-dropdown-vars",
+        "m": "I would like to order a {Size:Small,Medium,Large} {Drink:Coffee,Tea,Soda}.",
+        "e": "🔽 Dropdown",
+        "c": -11578276,
+        "as": false,
+        "a": true,
+        "f": false
+      },
+      {
+        "id": "demo-autosend",
+        "m": "GG WP! Good game everyone.",
+        "e": "🚀 Quick GG",
+        "c": -42963,
+        "as": true,
+        "a": true,
+        "f": false
+      },
+      {
+        "id": "demo-tools-folder",
+        "m": "Tools",
+        "e": "🧰 Tools",
+        "c": -1228219,
+        "as": false,
+        "a": true,
+        "f": true,
+        "sub": [
+          {
+            "id": "tool-math",
+            "m": "[Math]",
+            "e": "➗ Math",
+            "c": -1228219,
+            "as": false,
+            "a": true,
+            "f": false
+          },
+          {
+            "id": "tool-dice",
+            "m": "[Dice]",
+            "e": "🎲 Dice",
+            "c": -32393,
+            "as": false,
+            "a": true,
+            "f": false
+          },
+          {
+            "id": "tool-rand",
+            "m": "[Rand]",
+            "e": "🔢 Rand",
+            "c": -1228219,
+            "as": false,
+            "a": true,
+            "f": false
+          },
+          {
+            "id": "tool-pick",
+            "m": "[Pick]",
+            "e": "📌 Pick",
+            "c": -1228219,
+            "as": false,
+            "a": true,
+            "f": false
+          },
+          {
+            "id": "tool-coin",
+            "m": "[Coin]",
+            "e": "🪙 Coin",
+            "c": -16744193,
+            "as": false,
+            "a": true,
+            "f": false
+          }
+        ]
+      },
+      {
+        "id": "demo-nested-folder",
+        "m": "Encoders",
+        "e": "🔐 Encoders",
+        "c": -10983950,
+        "as": false,
+        "a": true,
+        "f": true,
+        "sub": [
+          {
+            "id": "nested-base64",
+            "m": "Base64",
+            "e": "📦 Base64",
+            "c": -11013497,
+            "as": false,
+            "a": true,
+            "f": true,
+            "sub": [
+              {
+                "id": "b64-enc",
+                "m": "[Base64Enc]",
+                "e": "🔒 Encode",
+                "c": -11013497,
+                "as": false,
+                "a": true,
+                "f": false
+              },
+              {
+                "id": "b64-dec",
+                "m": "[Base64Dec]",
+                "e": "🔓 Decode",
+                "c": -11013497,
+                "as": false,
+                "a": true,
+                "f": false
+              }
+            ]
+          },
+          {
+            "id": "nested-morse",
+            "m": "[Morse]",
+            "e": "📻 Morse",
+            "c": -10983950,
+            "as": false,
+            "a": true,
+            "f": false
+          }
+        ]
+      },
+      {
+        "id": "demo-locked-button",
+        "m": "This button is locked to a server ID!",
+        "e": "🔒 Locked",
+        "c": -11013497,
+        "as": false,
+        "a": true,
+        "f": false,
+        "sids": [
+          123456789
+        ],
+        "cids": []
+      }
+    ]
+  }
+]
