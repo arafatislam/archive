@@ -36,6 +36,15 @@
         "f": false
       },
       {
+        "id": "demo-cooldown",
+        "m": "[CD:10] I am on cooldown! Wait for me.",
+        "e": "⏱️ CD Demo",
+        "c": -5636096,
+        "as": false,
+        "a": true,
+        "f": false
+      },
+      {
         "id": "demo-tools-folder",
         "m": "Tools",
         "e": "🧰 Tools",
