@@ -174,7 +174,7 @@
     "sub": [
       {
         "id": "1",
-        "m": "rwith {Amount:1m,2m,3m,5m,10m}",
+        "m": "rwith {Amount:1m,2m,3m,5m,10m,20m,30m,40m,50m,60m,70m,80m,90m,100m}",
         "e": "With",
         "c": -16728155,
         "as": true,
@@ -183,7 +183,7 @@
       },
       {
         "id": "2",
-        "m": "[CD:60] rhl {Amount:1m,2m,3m,5m,10m}",
+        "m": "[CD:60] rhl {Amount:1m,2m,3m,5m,10m,20m,30m,40m,50m,60m,70m,80m,90m,100m}",
         "e": "RHL",
         "c": -49023,
         "as": true,
