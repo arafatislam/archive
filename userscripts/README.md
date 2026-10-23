@@ -9,6 +9,13 @@ Welcome to my personal archive of custom UserScripts for Tampermonkey and Violen
 | **Telegram Web K Redirector** | Bypasses forced native app downloads on custom file-bot sites (like filesgram/tgfiles) and routes links directly to Web K. | [📦 Install](https://arafatislam.github.io/archive/userscripts/telegram-web-k-redirector.user.js) | [📖 Read Doc](docs/telegram-web-k-redirector.md) |
 | *(More scripts coming soon)* | | | |
 
+## 🌟 Recommended External Scripts
+
+Here are a few other incredibly useful UserScripts created by the community that I highly recommend using alongside my own:
+
+*   [**IG Helper**](https://greasyfork.org/en/scripts/404535-ig-helper) - A comprehensive toolkit for downloading images and videos from Instagram.
+*   [**Telegram Media Downloader**](https://greasyfork.org/en/scripts/446342-telegram-media-downloader) - An excellent tool for easily downloading media directly from Telegram Web.
+*   [**FileCR Assistant Bypass**](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) - Bypasses the extension requirement step on FileCR to streamline your downloads.
 ## 🚀 How to Install
 
 1. Install a user script manager like [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Edge/Safari) or [Violentmonkey](https://violentmonkey.github.io/) (Firefox).
